@@ -12,6 +12,7 @@ representation of how you accomplish the work.
 - .NET 8
 - CQRS
 - Mediatr
+- Docker
 - Serilog for logging and tracking of files.
 - Global exception handling under Application/Common/Behaviours
 
